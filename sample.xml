@@ -52,6 +52,8 @@
                 <geom type="sphere" size=".02" rgba=".8 .8 0 1" />
                 <site type="box" rgba="1 0 0 1" size=".006 .02 .006" />
             </body>
+
+            <camera name = "tracking_camera" mode = "track" pos = "-0.4 0 0.8" euler = "0 -30 -90" fovy = "60"/>
         </body>
 
 
